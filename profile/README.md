@@ -46,6 +46,14 @@ Com um ambiente seguro e voltado para o aprendizado, o VibeUp promove a troca de
 
 ---
 
+## Links importantes
+
+1. [Figma](https://www.figma.com/design/OosgVfzp5VTY1aiRt1GtEh/VibeUp?node-id=0-1&node-type=canvas&t=GO9hiohQjr88BdjD-0)
+2. [Documento](https://docs.google.com/document/d/19STBVyjuKWl6S7jQ659nlzMvZP_MlIni1br8VXKGw70/)
+3. [SiteMarcioBoom](https://github.com/MarcioBOMBA/MarcioBoom)
+
+---
+
 ## Licença
 
 Este projeto ainda não possui licença
